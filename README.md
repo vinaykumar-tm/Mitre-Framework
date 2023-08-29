@@ -1,2 +1,30 @@
 # Miter-Framework
-The MITRE ATT&amp;CK framework is a curated knowledge base and model for cyber adversary behavior, reflecting the various phases of an adversary's attack lifecycle and the platforms they are known to target.
+The MITRE ATT&amp; CK framework is a curated knowledge base and model for cyber adversary behaviour, reflecting the various phases of an adversary's attack lifecycle and the platforms they are known to target.
+
+**MITRE ATT&CK:** Adversarial Tactics, Techniques, and Common Knowledge is a framework that categorizes and describes techniques used by attackers during cyber incidents. It helps security professionals understand and counteract these techniques.
+
+**MITRE D3FEND: A complementary framework to ATT&CK, D3FEND focuses on defensive techniques, helping organizations understand how to protect against known adversary tactics.
+
+**MITRE ENGAGE:** An initiative that aims to provide practical cybersecurity knowledge to industry professionals and encourage collaboration among security teams.
+
+**MITRE ATLAS:** A tool that offers a comprehensive view of the software and hardware components that make up an organization's cyber ecosystem.
+
+**CREF NAVIGATOR:** A tool that assists cybersecurity professionals in exploring relationships between Common Vulnerabilities and Exposures (CVEs), Common Weakness Enumerations (CWEs), and other related entities.
+
+**ATT&CK NAVIGATOR:** A tool that visualizes and interacts with the ATT&CK matrix, making it easier to explore techniques and understand relationships between them.
+
+**MITRE CAR:** Cyber Analytics Repository provides a curated set of analytics that organizations can use to detect specific adversary tactics and techniques.
+
+**MAEC:** Malware Attribute Enumeration and Characterization is a structured language for encoding and sharing high-fidelity information about malware.
+
+**CAPEC:** Common Attack Pattern Enumeration and Classification is a comprehensive dictionary and classification taxonomy of known attack patterns.
+
+**INSIDER THREAT FRAMEWORK:** A structured approach to addressing insider threats, helping organizations understand, detect, and prevent threats from within their own ranks.
+
+**SAF:** System for Attack Analysis Framework assists analysts in organizing, analyzing, and managing complex attack information.
+
+**INNOVATION TOOLKIT:** A resource for developing innovative solutions to cybersecurity challenges.
+
+**SPARTA (not MITRE):** A framework designed for network infrastructure penetration testing.
+
+    
