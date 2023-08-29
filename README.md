@@ -4,7 +4,7 @@ The MITRE ATT&amp; CK framework is a curated knowledge base and model for cyber 
 1. **MITRE ATT&CK:** Adversarial Tactics, Techniques, and Common Knowledge is a framework that categorizes and describes techniques used by attackers during cyber incidents. It helps security professionals understand and counteract these techniques.
 [ATT&CK](https://attack.mitre.org/)
 
-2. **MITRE D3FEND: A complementary framework to ATT&CK, D3FEND focuses on defensive techniques, helping organizations understand how to protect against known adversary tactics.
+2. MITRE D3FEND: A complementary framework to ATT&CK, D3FEND focuses on defensive techniques, helping organizations understand how to protect against known adversary tactics.
 [D3FEND](https://d3fend.mitre.org/)
 
 3. **MITRE ENGAGE:** An initiative that aims to provide practical cybersecurity knowledge to industry professionals and encourage collaboration among security teams.
