@@ -1,4 +1,4 @@
-## Miter-Framework
+## Mitre-Framework
 > The MITRE ATT&amp; CK framework is a curated knowledge base and model for cyber adversary behaviour, reflecting the various phases of an adversary's attack lifecycle and the platforms they are known to target.
 
 1. **MITRE ATT&CK:** Adversarial Tactics, Techniques, and Common Knowledge is a framework that categorizes and describes techniques used by attackers during cyber incidents. It helps security professionals understand and counteract these techniques.
